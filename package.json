@@ -8,9 +8,7 @@
     "build": "vite build"
   },
   "devDependencies": {
-    "vite": "^4.0.0"
-  },
-  "dependencies": {
+    "vite": "^4.0.0",
     "vite-plugin-minify": "^1.5.2"
   }
 }
