@@ -8,6 +8,7 @@
     "build": "vite build"
   },
   "devDependencies": {
+    "sass": "^1.58.3",
     "vite": "^4.0.0",
     "vite-plugin-minify": "^1.5.2"
   }
