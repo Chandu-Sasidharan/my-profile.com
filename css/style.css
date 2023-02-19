@@ -15,7 +15,7 @@
 }
 
 html {
-  font-size: calc(0.2vw + 0.3vh + 0.3rem);
+  font-size: calc(0.2vw + 0.2vh + 0.3rem);
   font-family: 'Catamaran', sans-serif;
 }
 
@@ -148,5 +148,6 @@ img {
     grid-column: 1/2;
     grid-row: 2/3;
     width: 80%;
+    margin-top: 5rem;
   }
 }
